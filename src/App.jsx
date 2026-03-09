@@ -114,22 +114,6 @@ function App() {
         {/* Social Icons */}
         <div className="flex gap-6 items-center">
           <a href="mailto:kamilhamdan18@gmail.com" className="hover:scale-110 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="#fff"><path d="M160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160Zm320-280L160-640v400h640v-400L480-440Zm0-80 320-200H160l320 200ZM160-640v-80 480-400Z" /></svg></a>
-          <a
-  href="https://www.linkedin.com/in/kamilhamdan"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="hover:scale-110 transition-transform inline-block"
->
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="#fff"
-  >
-    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
-  </svg>
-</a>
         </div>
 
         <a href={resume} download className="mt-4">
@@ -211,8 +195,8 @@ function App() {
           </div>
           <div>
             <h3 className="text-sm font-bold text-white uppercase tracking-widest mb-4">Education</h3>
-              <p>Computer Science and Engineering - (2021-2025)
-                 CGPA - 7.33
+              <p>Computer Science and Engineering - (2021-2025) <br />
+                 CGPA - 7.33 <br />
                  SNS College of Engineering, Coimbatore</p>
           </div>
           <div>
