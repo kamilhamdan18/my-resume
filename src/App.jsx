@@ -114,22 +114,7 @@ function App() {
         {/* Social Icons */}
         <div className="flex gap-6 items-center">
           <a href="mailto:kamilhamdan18@gmail.com" className="hover:scale-110 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" fill="#fff"><path d="M160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160Zm320-280L160-640v400h640v-400L480-440Zm0-80 320-200H160l320 200ZM160-640v-80 480-400Z" /></svg></a>
-          <a
-  href="https://www.linkedin.com/in/kamilhamdan"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="hover:scale-110 transition-transform cursor-pointer"
->
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="24"
-    height="24"
-    viewBox="0 0 24 24"
-    fill="white"
-  >
-    <path d="M19 0H5C2.24 0 0 2.24 0 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5V5c0-2.76-2.24-5-5-5zM8.34 18.34H5.67V9.67h2.67v8.67zM7 8.5c-.86 0-1.56-.7-1.56-1.56 0-.86.7-1.56 1.56-1.56s1.56.7 1.56 1.56c0 .86-.7 1.56-1.56 1.56zM18.34 18.34h-2.67v-4.2c0-1-.02-2.28-1.39-2.28-1.39 0-1.6 1.09-1.6 2.21v4.27h-2.67V9.67h2.56v1.18h.04c.36-.67 1.23-1.39 2.53-1.39 2.7 0 3.2 1.78 3.2 4.1v4.78z"/>
-  </svg>
-</a>
+          
         </div>
 
         <a href={resume} download className="mt-4">
