@@ -131,7 +131,7 @@ function App() {
         <section ref={aboutRef} id="about" className="mb-20 scroll-mt-10">
           <h2 className="sticky top-0 z-20 py-4 text-sm font-bold uppercase tracking-widest text-white backdrop-blur-md md:hidden">About</h2>
           <p className="leading-relaxed text-slate-400 text-lg text-justify">
-            I'm a Junior Data Analyst with strong SQL, Excel, Power BI, and
+            I'm a Data Analyst with strong SQL, Excel, Power BI, and
             Python skills, experienced in building KPI dashboards, performing
             data cleaning, and developing predictive models. Seeking entry-level
             Data Analyst or BI Analyst role in UAE.
