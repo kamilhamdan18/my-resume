@@ -131,10 +131,11 @@ function App() {
         <section ref={aboutRef} id="about" className="mb-20 scroll-mt-10">
           <h2 className="sticky top-0 z-20 py-4 text-sm font-bold uppercase tracking-widest text-white backdrop-blur-md md:hidden">About</h2>
           <p className="leading-relaxed text-slate-400 text-lg text-justify">
-            I'm a Data Analyst with strong SQL, Excel, Power BI, and
-            Python skills, experienced in building KPI dashboards, performing
-            data cleaning, and developing predictive models. Seeking entry-level
-            Data Analyst or BI Analyst role in UAE.
+            Results-driven Data Analyst with hands-on experience in data analysis, reporting, and dashboard development through internship and multiple real-world projects. 
+            Proficient in Excel, SQL, Power BI, and Python with strong skills in data cleaning, visualization, and KPI tracking. 
+            Experienced in analyzing large datasets including banking transactions, HR analytics, healthcare data, and crowdfunding campaigns to generate business insights. 
+            Skilled in building interactive dashboards and transforming raw data into actionable insights for decision-making. 
+            Eager to contribute analytical expertise to data-driven teams and support business growth.
           </p>
 
           <div className="mt-12 space-y-12">
