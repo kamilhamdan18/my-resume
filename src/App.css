@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+*{
+    scroll-behavior: smooth;
+}
+
+.hero-img{
+    width: fit-content;
+    height: 40vh;
+    border-radius: 1rem;
+}
+
+.main-menu > * {
+    transition: all .5s linear;
+}
+
+.main-menu > ul li{
+    list-style-type: none;
+}
+
+.main-menu > ul li a{
+    color: white;
+    opacity: 50%;
+    transition: .5s all ease;
+}
+
+.main-menu > ul li a.active{
+    opacity: 100%;
+}
+
+.main-menu > ul li a:hover{
+    opacity: 100%;
+}
+
+.resume-btn{
+    color: white;
+}
+
+.resume-btn button{
+    border: none;
+    color: #ffffff55;
+    transition: .5s all ease;
+}
+.resume-btn button:hover{
+    transition: .2s all ease;
+    color: #fff;
+    box-shadow: 0 0 1rem rgb(32, 52, 111);
+}
+
+
+@media screen and (max-width: 600px) {
+    .home-section{
+        flex-direction: column;
+        overflow: auto;
+    }
+    .main-menu{
+        display: none;
+    }
+}
+
