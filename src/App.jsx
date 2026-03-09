@@ -183,7 +183,7 @@ function App() {
             ))}
           </div>
         </section>
-
+        
         {/* Footer Info */}
         <footer className="border-t border-white/10 pt-10 space-y-10">
           <div>
@@ -191,6 +191,14 @@ function App() {
             <ul className="space-y-2 text-sm opacity-70">
               <li>• Business Analyst Certification - ExcelR (2025)</li>
               <li>• Data Science Job Simulation - Forage (2025)</li>
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-sm font-bold text-white uppercase tracking-widest mb-4">Education</h3>
+            <ul className="space-y-2 text-sm opacity-70">
+              <li>• Computer Science and Engineering - (2021-2025)</li>
+              <li>• CGPA - 7.33</li>
+              <li>• SNS College of Engineering</li>
             </ul>
           </div>
           <div>
