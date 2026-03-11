@@ -10,7 +10,7 @@ import project5 from "./assets/pro5.png";
 import projFile1 from "./assets/docs/Adventure works.pptx";
 import projFile2 from "./assets/docs/Bank Analytics.pptx";
 import projFile3 from "./assets/docs/HR_Analytics_Project_Presentation.pptx";
-import projFile4 from "./assets/docs/HR_Analytics_Project_Presentation.pptx";
+import projFile4 from "./assets/docs/Healthcare presentation.pptx";
 import projFile5 from "./assets/docs/KIcKSTARTERS CROWDFUNDING ANALYSIS.pptx";
 
 import resume from "./assets/docs/Mohamed Kamil M_Data Analyst Resume.pdf";
