@@ -13,7 +13,7 @@ import projFile3 from "./assets/docs/Healthcare presentation.pptx";
 import projFile4 from "./assets/docs/HR_Analytics_Project_Presentation.pptx";
 import projFile5 from "./assets/docs/KIcKSTARTERS CROWDFUNDING ANALYSIS.pptx";
 
-import resume from "./src/assets/docs/Mohamed Kamil M_Data Analyst Resume.pdf";
+import resume from "./assets/docs/Mohamed Kamil M_Data Analyst Resume.pdf";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("about");
