@@ -196,9 +196,11 @@ function App() {
           </div>
           <div>
             <h3 className="text-sm font-bold text-white uppercase tracking-widest mb-4">Education</h3>
-              <p>Computer Science and Engineering - (2021-2025) 
-                 CGPA - 7.33 
-                 SNS College of Engineering, Coimbatore</p>
+             <ul className="space-y-2 text-sm opacity-70">
+              <p>Computer Science and Engineering - (2021-2025)</p>
+              <p>CGPA - 7.33</p> 
+              <p>SNS College of Engineering, Coimbatore</p>
+             </ul>
           </div>
           <div>
             <h3 className="text-sm font-bold text-white uppercase tracking-widest mb-4">Languages</h3>
